@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    username: u696489416_revee_dev_acc
+    password: 9zTOL]6!
+    url: jdbc:mysql://sql732.main-hosting.eu:3306/u696489416_revee_dev
+  application:
+    name: revee-backend
+  main:
+    banner-mode: off
+  jpa:
+    show-query: true
+    hibernate:
+      ddl-auto: update
