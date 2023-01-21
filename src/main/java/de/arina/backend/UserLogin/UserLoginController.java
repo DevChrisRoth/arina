@@ -1,12 +1,9 @@
-package de.revaxlabs.backend.UserLogin;
+package de.arina.backend.UserLogin;
 
-import de.revaxlabs.backend.util.CustomPage;
+import de.arina.backend.util.CustomPage;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.configurationprocessor.json.JSONException;
-import org.springframework.boot.configurationprocessor.json.JSONObject;
-import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

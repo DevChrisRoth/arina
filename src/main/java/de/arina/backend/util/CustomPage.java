@@ -1,4 +1,4 @@
-package de.revaxlabs.backend.util;
+package de.arina.backend.util;
 
 import lombok.Data;
 import org.springframework.data.domain.Page;

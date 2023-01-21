@@ -1,4 +1,4 @@
-package de.revaxlabs.backend;
+package de.arina.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package de.revaxlabs.backend.UserLogin;
+package de.arina.backend.UserLogin;
 
 import lombok.Data;
 
